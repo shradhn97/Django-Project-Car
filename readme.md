@@ -1,2 +1,2 @@
-changes occur eventually 
+Changes occur eventually
 Author-Shradhananda
